@@ -41,8 +41,8 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rittwika123/portfolio" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-      </a>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" width="55" height="55" alt="Portfolio"/>
+</a>
     </td>
   </tr>
 </table>
