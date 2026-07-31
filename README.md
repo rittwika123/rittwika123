@@ -54,10 +54,10 @@
 <h4 align="center">GenAI / LLMs</h4>
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="55" height="55" alt="OpenAI"/></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/openai.svg" width="55" height="55" alt="OpenAI"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55" alt="Gemini"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/A78BFA" width="55" height="55" alt="Claude"/></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/groq/A78BFA" width="55" height="55" alt="Groq"/></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons@master/packages/static-svg/icons/groq.svg" width="55" height="55" alt="Groq"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/A78BFA" width="55" height="55" alt="Ollama"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/perplexity/A78BFA" width="55" height="55" alt="Perplexity"/></td>
   </tr>
