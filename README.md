@@ -54,7 +54,7 @@
 <h4 align="center">GenAI / LLMs</h4>
 <table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55" alt="OpenAI"/></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="55" height="55" alt="OpenAI"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55" alt="Gemini"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/A78BFA" width="55" height="55" alt="Claude"/></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/groq/A78BFA" width="55" height="55" alt="Groq"/></td>
