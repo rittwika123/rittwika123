@@ -36,27 +36,12 @@
     </td>
     <td align="center" width="96">
       <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/A78BFA" width="55" height="55" alt="Instagram"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#" target="_blank">
         <img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55" alt="Discord"/>
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rittwika123/portfolio" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/kaggle/A78BFA" width="55" height="55" alt="Kaggle"/>
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/googledocs/A78BFA" width="55" height="55" alt="Resume"/>
       </a>
     </td>
   </tr>
