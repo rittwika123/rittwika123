@@ -21,8 +21,8 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.linkedin.com/in/rittwika-bag-93449a418" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/A78BFA" width="55" height="55" alt="LinkedIn"/>
-      </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+</a>
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rittwika123" target="_blank">
