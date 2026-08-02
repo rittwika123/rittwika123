@@ -34,12 +34,8 @@
         <img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email"/>
       </a>
     </td>
-    <td align="center" width="96">
-      <a href="#" target="_blank">
-        <img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55" alt="Discord"/>
-      </a>
-    </td>
-    <td align="center" width="96">
+    
+   <td align="center" width="96">
       <a href="https://rittwika123.github.io/portfolio/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" width="55" height="55" alt="Portfolio"/>
 </a>
