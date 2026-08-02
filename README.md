@@ -40,7 +40,7 @@
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://github.io/rittwika123/portfolio/" target="_blank">
+      <a href="https://rittwika123.github.io/portfolio/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" width="55" height="55" alt="Portfolio"/>
 </a>
     </td>
